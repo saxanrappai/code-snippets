@@ -1,0 +1,3 @@
+fetch blank line in the editor
+
+^\s*$\n
